@@ -19,6 +19,5 @@ public class GroceryList {
     @Temporal(TemporalType.TIMESTAMP)
     private Date createdAt;
 
-//    comment for git commit
 
 }
